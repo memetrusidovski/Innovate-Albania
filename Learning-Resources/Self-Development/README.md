@@ -1,0 +1,1 @@
+[How to self study technical things](https://youtu.be/_EzmbCuoFcU)
