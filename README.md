@@ -15,3 +15,5 @@ Server Link: https://discord.gg/FsRGU8dEHY
 Reddit Link: https://www.reddit.com/r/innovate_albania/
 
 Youtube Link: https://www.youtube.com/channel/UCybO_Kgaof7FWajxmVOG_ng
+
+Twitter Link: https://twitter.com/innovatealbania
