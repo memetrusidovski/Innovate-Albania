@@ -29,3 +29,7 @@
 
 2. Data Structures \
 []()
+
+3. Networking\
+[Complete Course on Networking](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
+[Networks and Distributed Systems](https://youtube.com/playlist?list=PLW1yb8L3S1njNqzXgaxUAgAxscBef1RfV)
