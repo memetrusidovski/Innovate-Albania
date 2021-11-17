@@ -20,3 +20,5 @@
 
 ### Discrete Math Resources: 
 
+### Statistics and Probabilities 
+[jbstatistics](https://www.youtube.com/channel/UCiHi6xXLzi9FMr9B0zgoHqA)
