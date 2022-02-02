@@ -29,7 +29,7 @@ Textbook: Walter Savitch, Kenrick Mock - Absolute Java (Global Edition) (2015, P
 [CS50(Full Course)](https://youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
 
 2. Data Structures \
-[]()
+[MIT 6.006 Introduction to Algorithms, Fall 2011](https://youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
 3. Networking\
 [Complete Course on Networking](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
